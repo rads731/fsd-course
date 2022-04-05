@@ -1,0 +1,16 @@
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\BasicsOfCSharp\bin\Debug\net5.0\BasicsOfCSharp.exe
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\BasicsOfCSharp\bin\Debug\net5.0\BasicsOfCSharp.deps.json
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\BasicsOfCSharp\bin\Debug\net5.0\BasicsOfCSharp.runtimeconfig.json
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\BasicsOfCSharp\bin\Debug\net5.0\BasicsOfCSharp.runtimeconfig.dev.json
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\BasicsOfCSharp\bin\Debug\net5.0\BasicsOfCSharp.dll
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\BasicsOfCSharp\bin\Debug\net5.0\ref\BasicsOfCSharp.dll
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\BasicsOfCSharp\bin\Debug\net5.0\BasicsOfCSharp.pdb
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\BasicsOfCSharp\obj\Debug\net5.0\BasicsOfCSharp.csproj.AssemblyReference.cache
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\BasicsOfCSharp\obj\Debug\net5.0\BasicsOfCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\BasicsOfCSharp\obj\Debug\net5.0\BasicsOfCSharp.AssemblyInfoInputs.cache
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\BasicsOfCSharp\obj\Debug\net5.0\BasicsOfCSharp.AssemblyInfo.cs
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\BasicsOfCSharp\obj\Debug\net5.0\BasicsOfCSharp.csproj.CoreCompileInputs.cache
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\BasicsOfCSharp\obj\Debug\net5.0\BasicsOfCSharp.dll
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\BasicsOfCSharp\obj\Debug\net5.0\ref\BasicsOfCSharp.dll
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\BasicsOfCSharp\obj\Debug\net5.0\BasicsOfCSharp.pdb
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\BasicsOfCSharp\obj\Debug\net5.0\BasicsOfCSharp.genruntimeconfig.cache

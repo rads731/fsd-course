@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f697fcf5-e04a-4264-92fd-932af49e48e1": {
+      "ProjectGuid": "f697fcf5-e04a-4264-92fd-932af49e48e1",
+      "DisplayName": "BasicsOfCSharp",
+      "ColorIndex": 0
+    },
+    "4d475e24-7d1e-451e-a039-9f6150c5cdee": {
+      "ProjectGuid": "4d475e24-7d1e-451e-a039-9f6150c5cdee",
+      "DisplayName": "DataStructure",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

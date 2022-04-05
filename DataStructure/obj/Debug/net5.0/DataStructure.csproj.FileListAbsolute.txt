@@ -1,0 +1,16 @@
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\DataStructure\bin\Debug\net5.0\DataStructure.exe
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\DataStructure\bin\Debug\net5.0\DataStructure.deps.json
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\DataStructure\bin\Debug\net5.0\DataStructure.runtimeconfig.json
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\DataStructure\bin\Debug\net5.0\DataStructure.runtimeconfig.dev.json
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\DataStructure\bin\Debug\net5.0\DataStructure.dll
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\DataStructure\bin\Debug\net5.0\ref\DataStructure.dll
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\DataStructure\bin\Debug\net5.0\DataStructure.pdb
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\DataStructure\obj\Debug\net5.0\DataStructure.csproj.AssemblyReference.cache
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\DataStructure\obj\Debug\net5.0\DataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\DataStructure\obj\Debug\net5.0\DataStructure.AssemblyInfoInputs.cache
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\DataStructure\obj\Debug\net5.0\DataStructure.AssemblyInfo.cs
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\DataStructure\obj\Debug\net5.0\DataStructure.csproj.CoreCompileInputs.cache
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\DataStructure\obj\Debug\net5.0\DataStructure.dll
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\DataStructure\obj\Debug\net5.0\ref\DataStructure.dll
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\DataStructure\obj\Debug\net5.0\DataStructure.pdb
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\DataStructure\obj\Debug\net5.0\DataStructure.genruntimeconfig.cache
