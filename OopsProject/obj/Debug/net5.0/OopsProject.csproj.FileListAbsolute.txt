@@ -1,0 +1,16 @@
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\OopsProject\bin\Debug\net5.0\OopsProject.exe
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\OopsProject\bin\Debug\net5.0\OopsProject.deps.json
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\OopsProject\bin\Debug\net5.0\OopsProject.runtimeconfig.json
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\OopsProject\bin\Debug\net5.0\OopsProject.runtimeconfig.dev.json
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\OopsProject\bin\Debug\net5.0\OopsProject.dll
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\OopsProject\bin\Debug\net5.0\ref\OopsProject.dll
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\OopsProject\bin\Debug\net5.0\OopsProject.pdb
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\OopsProject\obj\Debug\net5.0\OopsProject.csproj.AssemblyReference.cache
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\OopsProject\obj\Debug\net5.0\OopsProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\OopsProject\obj\Debug\net5.0\OopsProject.AssemblyInfoInputs.cache
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\OopsProject\obj\Debug\net5.0\OopsProject.AssemblyInfo.cs
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\OopsProject\obj\Debug\net5.0\OopsProject.csproj.CoreCompileInputs.cache
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\OopsProject\obj\Debug\net5.0\OopsProject.dll
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\OopsProject\obj\Debug\net5.0\ref\OopsProject.dll
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\OopsProject\obj\Debug\net5.0\OopsProject.pdb
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\OopsProject\obj\Debug\net5.0\OopsProject.genruntimeconfig.cache
