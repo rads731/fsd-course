@@ -1,0 +1,26 @@
+﻿
+@model EmployeeResourceSystem.Models.Contact;
+@{
+    ViewData["Title"] = "Contact Page";
+
+}
+<div class="container">
+    <div>
+    @ViewData["Title"] 
+    </div>
+     <div>
+    @Model.UserName
+    </div>
+     <div>
+    @Model.FirstName
+    </div>
+     <div>
+    @Model.LastName
+    </div>
+    <div>
+        @Model.Email
+    </div>
+    <div>
+        @Model.Phone
+    </div>
+</div>

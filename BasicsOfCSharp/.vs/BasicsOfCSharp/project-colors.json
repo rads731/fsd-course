@@ -10,7 +10,12 @@
       "ProjectGuid": "4d475e24-7d1e-451e-a039-9f6150c5cdee",
       "DisplayName": "DataStructure",
       "ColorIndex": 1
+    },
+    "51c114ac-983d-43d4-b7c4-97b8411bc053": {
+      "ProjectGuid": "51c114ac-983d-43d4-b7c4-97b8411bc053",
+      "DisplayName": "OopsProject",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
