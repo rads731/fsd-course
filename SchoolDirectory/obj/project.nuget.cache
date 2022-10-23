@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Kh4UQOu4LmREjb8Tr0Lqs5nLpvkpSvwNlNIN1lJxUW0H33VZfGqyg0Q+glLZjpl5fxqV1GI7b5imj0h1GDVm+g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\radhika_Singh1\\Desktop\\dell\\techstack\\fsdTraining\\corseone\\SchoolDirectory\\SchoolDirectory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\radhika_Singh1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,16 @@
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\LinqDemoQueries\bin\Debug\net5.0\LinqDemoQueries.exe
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\LinqDemoQueries\bin\Debug\net5.0\LinqDemoQueries.deps.json
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\LinqDemoQueries\bin\Debug\net5.0\LinqDemoQueries.runtimeconfig.json
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\LinqDemoQueries\bin\Debug\net5.0\LinqDemoQueries.runtimeconfig.dev.json
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\LinqDemoQueries\bin\Debug\net5.0\LinqDemoQueries.dll
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\LinqDemoQueries\bin\Debug\net5.0\ref\LinqDemoQueries.dll
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\LinqDemoQueries\bin\Debug\net5.0\LinqDemoQueries.pdb
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\LinqDemoQueries\obj\Debug\net5.0\LinqDemoQueries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\LinqDemoQueries\obj\Debug\net5.0\LinqDemoQueries.AssemblyInfoInputs.cache
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\LinqDemoQueries\obj\Debug\net5.0\LinqDemoQueries.AssemblyInfo.cs
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\LinqDemoQueries\obj\Debug\net5.0\LinqDemoQueries.csproj.CoreCompileInputs.cache
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\LinqDemoQueries\obj\Debug\net5.0\LinqDemoQueries.dll
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\LinqDemoQueries\obj\Debug\net5.0\ref\LinqDemoQueries.dll
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\LinqDemoQueries\obj\Debug\net5.0\LinqDemoQueries.pdb
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\LinqDemoQueries\obj\Debug\net5.0\LinqDemoQueries.genruntimeconfig.cache
+C:\Users\radhika_Singh1\Desktop\dell\techstack\fsdTraining\corseone\LinqDemoQueries\obj\Debug\net5.0\LinqDemoQueries.csproj.AssemblyReference.cache

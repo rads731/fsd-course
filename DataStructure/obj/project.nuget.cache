@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "GyA9PTmaR//xYEHqeRsh5hAOWYP17t3IIql1PJfT18h4TvF+xXq1pS051NVAqP7rOCruluH9SvbxweUEeZSJAg==",
+  "dgSpecHash": "3zo98tQmNcgm9WLsowoC23Xazc8lw+nkhAFIGP4wAiHX1oeMx3YXX3HD7h2vGWkgFjVJr0Ht8zwGGaFZ0/PL8g==",
   "success": true,
   "projectFilePath": "C:\\Users\\radhika_Singh1\\Desktop\\dell\\techstack\\fsdTraining\\corseone\\DataStructure\\DataStructure.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\radhika_Singh1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

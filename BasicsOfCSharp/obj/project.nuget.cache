@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "Dgf9XxVr/viPIp9UrFUyvRxxYA7YacJzFOeYuOlsAVGWZJyngK2yJMWMnKTru+b2k13M+SVTTnACJ0AK4Xb5zA==",
+  "dgSpecHash": "z8u6J1z+0B0hY3NNnUM9Ga3EafDk1xlYXwjHzhMVs4wNw8VcXXRw3VqY4OpK66eJQOPYFIbW3h5jN8UGscrXYw==",
   "success": true,
   "projectFilePath": "C:\\Users\\radhika_Singh1\\Desktop\\dell\\techstack\\fsdTraining\\corseone\\BasicsOfCSharp\\BasicsOfCSharp.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\radhika_Singh1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
   "logs": []
 }

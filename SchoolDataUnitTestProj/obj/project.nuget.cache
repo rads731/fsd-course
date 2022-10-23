@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "2XPZhp3GM5ryeLPBv4OXE4qFcXLpG5aSJ+oZw8Ra8M8zNIZMLF/5jf5jO0C2nk4zqGkQd9DjHk0v4bkVEkyZZg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\radhika_Singh1\\Desktop\\dell\\techstack\\fsdTraining\\corseone\\SchoolDataUnitTestProj\\SchoolDataUnitTestProj.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\radhika_Singh1\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\radhika_Singh1\\.nuget\\packages\\netstandard.library\\2.0.0\\netstandard.library.2.0.0.nupkg.sha512",
+    "C:\\Users\\radhika_Singh1\\.nuget\\packages\\nunit\\3.13.3\\nunit.3.13.3.nupkg.sha512",
+    "C:\\Users\\radhika_Singh1\\.nuget\\packages\\nunit3testadapter\\4.2.1\\nunit3testadapter.4.2.1.nupkg.sha512"
+  ],
+  "logs": []
+}

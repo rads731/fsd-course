@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "qiyTm4Ul4li+PkVJdvgm9gpsJmi1cafzzYRkK8ZuuNT00tVsRyVdhTZg8gv1EBLC8skOqyj4VWlw0oHrtzXDrg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\radhika_Singh1\\Desktop\\dell\\techstack\\fsdTraining\\corseone\\LinqDemoQueries\\LinqDemoQueries.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\radhika_Singh1\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.17\\microsoft.netcore.app.host.win-x64.5.0.17.nupkg.sha512"
+  ],
+  "logs": []
+}
